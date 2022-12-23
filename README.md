@@ -1,2 +1,2 @@
 # EShop
-Website for Ecommerece 
+Website for Ecommerce 
